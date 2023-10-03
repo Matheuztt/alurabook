@@ -1,5 +1,8 @@
+@import url(styles/header.css);
+
 :root{
-    --background: #ebecee; 
+    --background: #ebecee;
+    --branco: #fff;
 }
 
 body{
