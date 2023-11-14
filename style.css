@@ -16,7 +16,7 @@
     --fonte-secundaria: 'Josefin Sans';
     --cinza: #474646;
     --cinza-secundario: #858585;
-    --degrade: linear-gradient(90deg, rgba(45,103,33,1) 0%, rgba(121,10,115,1) 100%);
+    --degrade: linear-gradient(90deg, rgba(45,103,33,1) 0%, rgb(10, 54, 121) 100%);
 }
 
 body{
@@ -24,16 +24,4 @@ body{
     font-family: var(--fonte);
     font-size: 16px;
     font-weight: 400;
-}
-
-#copy{
-  background-color: #263138;
-  text-align: center;
-  padding: 24px;
-  color: #FFF;
-}
-
-.nick {
-  color: var(--laranja);
-  text-decoration: none;
 }
